@@ -82,6 +82,23 @@ _Web Application Scanning Using OWASP ZAP_
 <img src="images/image30.png">
 
 
+_Session Hijacking - WebGoat 8_
+
+*Ref 5: Session Hijacking*
+
+<img src="images/image31.png"> <img src="images/image32.png"> <img src="images/imag33.png"> <img src="images/image34.png"> <img src="images/image35.png"> <img src="images/image36.png">
+<img src="images/image37.png"> <img src="images/image38.png"> <img src="images/image39.png"> <img src="images/image40.png"> <img src="images/image41.png"> <img src="images/image42.png">
+<img src="images/image43.png"> <img src="images/image44.png"> <img src="images/image45.png"> <img src="images/image46.png"> <img src="images/image47.png"> <img src="images/image48.png">
+<img src="images/image49.png"> <img src="images/image50.png"> <img src="images/image51.png"> <img src="images/image52.png"> <img src="images/image53.png">
+
+
+_SQL Injection_
+
+*Ref 6: Sql Injection - WebGoat*
+
+<img src="images/image54.png"> <img src="images/image55.png"> <img src="images/image56.png">
+
+
 
 
 
