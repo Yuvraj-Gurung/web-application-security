@@ -71,6 +71,17 @@ _DVWA - Local File Inclusion Vulnerability_
 <img src="images/image20.png"> <img src="images/image21.png">
 
 
+_Web Application Scanning Using OWASP ZAP_
+
+*Ref 4: Web application scanning*
+
+<img src="images/image22.png"> <img src="images/image23.png"> 
+<img src="images/image24.png"> <img src="images/image25.png"> 
+<img src="images/image26.png"> <img src="images/image27.png">
+<img src="images/image28.png"> <img src="images/image29.png">
+<img src="images/image30.png">
+
+
 
 
 
