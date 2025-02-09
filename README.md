@@ -62,6 +62,17 @@ _DVWA - Brute Force Using OWASP ZAP_
 <img src="images/image15.png">
 
 
+_DVWA - Local File Inclusion Vulnerability_
+
+*Ref 3: Local File Inclusion*
+
+<img src="images/image16.png"> <img src="images/image17.png"> 
+<img src="images/image18.png"> <img src="images/image19.png"> 
+<img src="images/image20.png"> <img src="images/image21.png">
+
+
+
+
 
 
 
