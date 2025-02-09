@@ -55,11 +55,11 @@ _DVWA - Brute Force Using OWASP ZAP_
 
 *Ref 2: Brute Force*
 
-<img src="images/image7.png" width=500> <img src="images/image8.png" width=500> 
-<img src="images/image9.png" width=500> <img src="images/image10.png" width=500>
-<img src="images/image11.png" width=500> <img src="images/image12.png" width=500>
-<img src="images/image13.png" width=500> <img src="images/image14.png" width=500>
-<img src="images/image15.png" width=500>
+<img src="images/image7.png" width=500> <img src="images/image8.png" width=500> <img src="images/image9.png" width=500> 
+<img src="images/image10.png" width=500> <img src="images/image11.png" width=500> <img src="images/image12.png" width=500>
+<img src="images/image13.png" width=500> <img src="images/image14.png" width=500> <img src="images/image15.png" width=500>
+
+
 
 
 
