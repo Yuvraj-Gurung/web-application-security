@@ -39,3 +39,28 @@ The objective of this project is to conduct a penetration testing on a simulated
 
 ## Conclusion
 The web application penetration testing project successfully identified multiple security weaknesses within the Web applications.
+
+# Walkthrough | Screenshots
+
+_DVWA - Brute Force Using Burp Suite_
+
+*Ref 1: Brute Force*
+
+<img src="images/image1.png" width=500> <img src="images/image2.png" width=500> 
+<img src="images/image3.png" width=500> <img src="images/image4.png" width=500>
+<img src="images/image5.png" width=500> <img src="images/image6.png" width=500>
+
+
+_DVWA - Brute Force Using OWASP ZAP_
+
+*Ref 2: Brute Force*
+
+<img src="images/image7.png" width=500> <img src="images/image8.png" width=500> 
+<img src="images/image9.png" width=500> <img src="images/image10.png" width=500>
+<img src="images/image11.png" width=500> <img src="images/image12.png" width=500>
+<img src="images/image13.png" width=500> <img src="images/image14.png" width=500>
+<img src="images/image15.png" width=500>
+
+
+
+
