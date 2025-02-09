@@ -46,9 +46,9 @@ _DVWA - Brute Force Using Burp Suite_
 
 *Ref 1: Brute Force*
 
-<img src="images/image1.png" width=500> <img src="images/image2.png" width=500> 
-<img src="images/image3.png" width=500> <img src="images/image4.png" width=500>
-<img src="images/image5.png" width=500> <img src="images/image6.png" width=500>
+<img src="images/image1.png"> <img src="images/image2.png"> 
+<img src="images/image3.png"> <img src="images/image4.png">
+<img src="images/image5.png"> <img src="images/image6.png">
 
 
 _DVWA - Brute Force Using OWASP ZAP_
