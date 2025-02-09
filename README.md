@@ -99,6 +99,17 @@ _SQL Injection_
 <img src="images/image54.png"> <img src="images/image55.png"> <img src="images/image56.png">
 
 
+_Pentesting OWASP Juice Shop_
+
+*Ref 7: Owasp Juice Shop Pentesting*
+
+<img src="images/image57.png"> <img src="images/image58.png"> <img src="images/imag59.png"> <img src="images/image60.png"> <img src="images/image61.png"> <img src="images/image62.png">
+<img src="images/image63.png"> <img src="images/image64.png"> <img src="images/image65.png"> <img src="images/image66.png"> <img src="images/image67.png"> <img src="images/image68.png">
+<img src="images/image69.png"> <img src="images/image70.png"> <img src="images/image71.png"> <img src="images/image72.png"> <img src="images/image73.png"> <img src="images/image74.png">
+<img src="images/image75.png"> <img src="images/image76.png"> <img src="images/image77.png"> <img src="images/image78.png"> <img src="images/image79.png"> <img src="images/image80.png">
+
+
+
 
 
 
